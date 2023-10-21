@@ -1,3 +1,1 @@
-lalalalala
-niooioi
-gibb3445
+#Gra python PyPou - projekt na narzędzia
