@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 #Gra python PyPou - projekt na narzędzia
 #Pierwsza zmiana w gitkrakenia, czy działa?
-#DZIAŁA!!!!!!!!!!
+#DZIAŁA!!!!!!!!!!1111111
 
