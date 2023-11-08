@@ -7,3 +7,6 @@ Celem projektu jest stworzenie gry komputerowej _PyPou_ w oparciu o bibliotekę 
 ## Flappy PyPou
 Flappy PyPou to gra, która działa tak, jak flappy bird. Skacze się własnym awatarem przez tuby. Chodzi o to, aby nie dotknąć pojedynczej rury. Wtedy gra się kończy, a wszystko resetuje.
 
+## TetriPou
+TetriPou to gra inspirowana słynną gra tetris. Chodzi w niej o układanie pojawiających się na ekranie figur w taki sposób by te pasowały do wczesniej umieszczoych. Za dobre ułożenie garcz otzrymuje punkty.
+
