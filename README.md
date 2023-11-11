@@ -16,6 +16,6 @@ Celem gry jest jak najdłuższe wytrwanie bez potknięcia się o kaktusy albo ud
 bohatera
 ![dinosaur](/images1/dino.png)
 
-##Icy Tower
+## Icy Tower
 Icy Tower to popularna minigra platformowa, w której gracz kontroluje postać poruszającą się w górę wieży, unikając przeszkód i próbując osiągnąć jak najwyższy poziom. Gra charakteryzuje się dynamicznym tempem oraz koniecznością precyzyjnych skoków, aby unikać przeszkód i zdobywać punkty. Celem gracza jest osiągnięcie jak najwyższego poziomu, a jednocześnie utrzymanie balansu, aby nie spaść z platform.
 
