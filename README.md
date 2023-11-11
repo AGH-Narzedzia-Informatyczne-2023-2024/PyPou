@@ -10,3 +10,8 @@ Flappy PyPou to gra, która działa tak, jak flappy bird. Skacze się własnym a
 ## TetriPou
 TetriPou to gra inspirowana słynną grą tetris. Chodzi w niej o układanie pojawiających się na ekranie figur w taki sposób by te pasowały do wczesniej umieszczonych. Za dobre ułożenie gracz otrzymuje punkty.
 
+##DinoPou
+DinoPou to gra wzorowana na popularnym dinozaurze skaczącym przez kaktusy, gdy Google Chrome nie ma dostępu do internetu. 
+Celem gry jest jak najdłuższe wytrwanie bez potknięcia się o kaktusy albo uderzenia głową w ptaki nadlatujące w kierunku 
+bohatera
+![dinosaur](/images1/dino.png)
