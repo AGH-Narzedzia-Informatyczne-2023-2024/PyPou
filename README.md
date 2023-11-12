@@ -19,3 +19,5 @@ bohatera
 ## Icy Tower
 Icy Tower to popularna minigra platformowa, w której gracz kontroluje postać poruszającą się w górę wieży, unikając przeszkód i próbując osiągnąć jak najwyższy poziom. Gra charakteryzuje się dynamicznym tempem oraz koniecznością precyzyjnych skoków, aby unikać przeszkód i zdobywać punkty. Celem gracza jest osiągnięcie jak najwyższego poziomu, a jednocześnie utrzymanie balansu, aby nie spaść z platform.
 
+## PingPou
+Jednymi z najpopularniejszych minigier są gry oparte na pingpongu lub siatkówce. W naszej grze też nie może tego zabraknąć! Minigra PingPou ma polegać na grze w popularnego pingpona przeciwko komputerowemu przeciwnikowi. Celem gry jest oczywiście zdobycie punktu i pokonanie przeciwnika, lecz z każdą chwilą staje się to coraz trudniejsze. Im dalej w las, tym prędkość rozgrywki wzrasta, a jak wiadomo, z prędkością wzrasta również trudności. 
