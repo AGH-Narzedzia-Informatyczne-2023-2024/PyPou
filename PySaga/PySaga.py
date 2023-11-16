@@ -14,6 +14,8 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('PySaga')
 clock = pygame.time.Clock()
 
+image = pygame.image.load('PyPou.png')
+image = pygame.transform.scale(image, (284, 267))
 
 def display_text():
     font = pygame.font.Font(None, 36)
@@ -30,6 +32,7 @@ while running:
             running = False
 
     display_text()
+    screen.blit(image, (0, 0))
 
     pygame.display.flip()
     clock.tick(FPS)
