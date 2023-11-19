@@ -1,0 +1,1 @@
+//osobny plik w mojej gałęzi który póżniej połącze z gałęzią main
