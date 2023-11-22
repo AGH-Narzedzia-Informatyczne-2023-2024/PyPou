@@ -71,4 +71,4 @@ while running:
 # Zamknięcie okna Pygame
 pygame.quit()
 
-
+#test konfliktu scalania-Jan Rolka
