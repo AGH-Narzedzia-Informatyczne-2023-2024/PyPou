@@ -72,12 +72,9 @@ while running:
 pygame.quit()
 
 
-
-
-
-
-
-
-
 #sprawdzenie konfliktu
 
+
+
+#test konfliktu scalania-Jan Rolka
+>>>>>>> ef6ef8f41d9f2c790e28e4ee839e0e0706b42509
