@@ -72,3 +72,12 @@ while running:
 pygame.quit()
 
 
+
+
+
+
+
+
+
+#sprawdzenie konfliktu
+
