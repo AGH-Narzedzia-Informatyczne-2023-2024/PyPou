@@ -4,7 +4,7 @@ prawda?
 ale nie. 
 Generuję konflikt
 tak po prostu na
-tym pliczku
+tym pliczku - tutaj dodaję ciekawą zmianę. Nie powiem
 i git
 jak nazwa tego systemu kontroli
-nieważne
+nieważne - i tutaj też coś dodam
