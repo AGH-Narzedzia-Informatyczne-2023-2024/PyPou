@@ -1,2 +1,7 @@
-//osobny plik w mojej gałęzi który póżniej połącze z gałęzią main
+//osobny plik w mojej gałęzi który póżniej połącze z gałęzią main BW_konflikt
 dodaje teraz konfliktowy tekst w swojej lokalnej galezi - bedzie konflikt bo to samo zrobie nie w galezi
+
+dodaję tekst w głównej gałęzi - jak zrogię git push z mojego brancha to się podzieje konflikt
+
+nie chcemy konfliktów! obie treści nie wykluczają się wzajemnie - zostawię je i dodam ten komentarz
+
