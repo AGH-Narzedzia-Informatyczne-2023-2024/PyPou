@@ -1,1 +1,3 @@
 //osobny plik w mojej gałęzi który póżniej połącze z gałęzią main
+
+dodaję tekst w głównej gałęzi - jak zrogię git push z mojego brancha to się podzieje konflikt
