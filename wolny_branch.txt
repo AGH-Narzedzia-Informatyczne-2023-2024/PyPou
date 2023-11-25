@@ -1,1 +1,2 @@
 //osobny plik w mojej gałęzi który póżniej połącze z gałęzią main
+dodaje teraz konfliktowy tekst w swojej lokalnej galezi - bedzie konflikt bo to samo zrobie nie w galezi
