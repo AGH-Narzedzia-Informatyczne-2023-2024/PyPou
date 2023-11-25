@@ -8,3 +8,9 @@ tym pliczku - tutaj dodaję ciekawą zmianę. Nie powiem
 i git
 jak nazwa tego systemu kontroli
 nieważne - i tutaj też coś dodam
+tym pliczku - dodam tu co innego - na złość sąsiedniej gałęzi
+i git
+jak nazwa tego systemu kontroli
+nieważne - to jest konfliktowa zmiana!!!
+
+zostawię obie wersje dla potomnych
