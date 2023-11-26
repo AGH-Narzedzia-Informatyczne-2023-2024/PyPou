@@ -1,1 +1,1 @@
-To jest tekst dodany na początek pliku konfliktu
+Jakaś nowa zawartość do pliku konfliktu
