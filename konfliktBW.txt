@@ -1,2 +1,4 @@
 początkowy tekst pliku
 dodanie linijki w mainie
+nowa linijka tekstu dodana w branchu
+obie linijki nie konfliktują ze sobą więc tak je zostawiam i dodaje tę linię.
