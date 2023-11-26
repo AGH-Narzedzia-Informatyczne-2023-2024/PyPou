@@ -1,1 +1,2 @@
 początkowy tekst pliku
+dodanie linijki w mainie
