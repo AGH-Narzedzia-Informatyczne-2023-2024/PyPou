@@ -1,1 +1,2 @@
 początkowy tekst pliku
+nowa linijka tekstu dodana w branchu
